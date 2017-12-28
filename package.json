@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-x-camera",
+  "version": "1.0.0",
+  "description": "Cordova Camera Plugin",
+  "cordova": {
+    "id": "cordova-plugin-x-camera",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ns-oliver/cordova-plugin-x-camera.git"
+  },
+  "keywords": [
+    "cordova",
+    "Camera",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "lazygleen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ns-oliver/cordova-plugin-x-camera/issues"
+  },
+  "homepage": "https://github.com/Ns-oliver/cordova-plugin-x-camera#readme"
+}
